@@ -1,0 +1,18 @@
+Fundamentals differences 
+
+
+Static Websites:  The site pulls content directly from a simple file saved on the server. 
+Because nothing changes in the background, every visitor gets the exact same page.
+
+Dynamic Websites:  The site pulls live data from a database every time a page loads.
+ This lets the site update, refresh, and show new information whenever someone asks for it.
+
+
+HTML, CSS, and JS:   HTML puts the text and images on the page. 
+CSS picks the colors, fonts, and layout. 
+JavaScript powers clickable parts like mobile menus, dark mode, and pop-ups.
+
+Folder Organization:   Putting files into clean folders helps you find things fast,
+ makes group work easy, and keeps all your file links working properly.
+
+
